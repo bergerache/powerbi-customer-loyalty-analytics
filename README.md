@@ -28,17 +28,17 @@ Initial analysis showed standard members with higher CLV — but this was **time
 ## 📈 Dashboard Pages
 
 ### Page 1: Customer Value Analysis
-![Customer Value Analysis](Customer%20Value.jpg)
+<img src="Customer%20Value.jpg" width="100%">
 
 Compares CLV distribution and cancellation rates between promotion and standard cohorts, controlling for enrollment timing.
 
 ### Page 2: Flight Activity
-![Flight Activity](Flight%20Activity.jpg)
+<img src="Flight%20Activity.jpg" width="100%">
 
 Analyses booking patterns, flight frequency, and travel behaviour across member segments.
 
 ### Page 3: Promotion Impact
-![Promotion Impact](Promotion%20Impact.jpg)
+<img src="Promotion%20Impact.jpg" width="100%">
 
 Evaluates the overall effectiveness of the promotional campaign on member acquisition and retention.
 
